@@ -1,0 +1,38 @@
+.imgpeq {
+  width: 500px;
+  height: auto;
+}
+.imgmed{
+  width: 900px;
+  height: auto; 
+}
+.imggra{
+  width: 1200px;
+  height: auto; 
+}
+body{
+    background: url(../imagem/download.jpg) no-repeat center/cover;
+
+}
+h1{
+    font-family: sans-serif;
+    color: darkblue;
+}
+h2{
+    font-family: sans-serif;
+    color: blue
+}
+h3{
+    font-family: sans-serif;
+    color: blue
+}
+p{
+    font-family: sans-serif;
+}
+table {
+  font-size: 27px;
+}
+.fla{
+  font-family:sans-serif;
+    color: red ;
+}
